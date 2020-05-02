@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Repos\Fotos\Fotos.shared\bin\Debug\netstandard2.0\Fotos.shared.deps.json
+\\Mac\Home\Documents\Repos\Fotos\Fotos.shared\bin\Debug\netstandard2.0\Fotos.shared.dll
+\\Mac\Home\Documents\Repos\Fotos\Fotos.shared\obj\Debug\netstandard2.0\Fotos.shared.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Repos\Fotos\Fotos.shared\obj\Debug\netstandard2.0\Fotos.shared.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Repos\Fotos\Fotos.shared\obj\Debug\netstandard2.0\Fotos.shared.AssemblyInfo.cs
