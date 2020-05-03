@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wgFr9Mz3nPGwvkk9V99e77vqfp0CaLL6TmGeU+mjbZdr6LGMt+096SaQSxpggBlzQFOkAy3mPckdxv+0i1CD5g==",
+  "dgSpecHash": "R3j7RTiy05QKvO6NjucFKrrXooYgSKC2TponKZ2SmBTUhvAgumrb9ts91U4x62LC5vYGGcbaOu75VC6Sn0zeBQ==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.shared.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tianchengzhu\\.nuget\\packages\\autofac\\5.1.4\\autofac.5.1.4.nupkg.sha512",
     "C:\\Users\\tianchengzhu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

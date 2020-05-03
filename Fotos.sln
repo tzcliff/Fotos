@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotos.shared", "Fotos.shared\Fotos.shared.csproj", "{8A1BB280-6CED-4D7B-AE04-E9656A2DF605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fotos.Shared", "Fotos.shared\Fotos.Shared.csproj", "{8A1BB280-6CED-4D7B-AE04-E9656A2DF605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotos.windows", "Fotos.Windows\Fotos.windows.csproj", "{AA26D528-8C0D-4345-9BA9-901144CA67A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fotos.Windows", "Fotos.Windows\Fotos.Windows.csproj", "{AA26D528-8C0D-4345-9BA9-901144CA67A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -25,3 +25,14 @@
 \\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\obj\Debug\Views\WelcomeView.baml
 \\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\obj\Debug\Views\ShellView.g.cs
 \\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\obj\Debug\Views\ShellView.baml
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\Caliburn.Micro.dll
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\Caliburn.Micro.Platform.Core.dll
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\Caliburn.Micro.Platform.dll
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\Fotos.shared.dll
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\System.Windows.Interactivity.dll
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\Fotos.shared.pdb
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\Caliburn.Micro.xml
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\Caliburn.Micro.Platform.xml
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\bin\Debug\Caliburn.Micro.Platform.Core.xml
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\Repos\Fotos\Fotos.Windows\obj\Debug\App.baml

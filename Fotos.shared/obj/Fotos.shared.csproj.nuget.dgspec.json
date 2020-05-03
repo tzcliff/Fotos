@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.shared.csproj": {}
+    "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.Shared.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.shared.csproj": {
+    "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.shared.csproj",
-        "projectName": "Fotos.shared",
-        "projectPath": "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.shared.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.Shared.csproj",
+        "projectName": "Fotos.Shared",
+        "projectPath": "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\Fotos.Shared.csproj",
         "packagesPath": "C:\\Users\\tianchengzhu\\.nuget\\packages\\",
         "outputPath": "\\\\Mac\\Home\\Documents\\Repos\\Fotos\\Fotos.shared\\obj\\",
         "projectStyle": "PackageReference",
